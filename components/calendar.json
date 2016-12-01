@@ -2,28 +2,136 @@
 	"calendar": [
 
 		{
-			"title": "BE - Tuize intro & brainstorm + Poppr VR",
+			"title": "BE - Tuize intro & brainstorm | Poppr VR",
 			"url": "http://hackfridays.com",
 			"start": "2016-11-04T08:00:00",
 			"end": "2016-11-04T08:00:00"
 		},
 		{
-			"title": "NL - Tuize intro & brainstorm + Speech & VR",
+			"title": "NL - Tuize intro & brainstorm | Speech & VR",
 			"url": "http://hackfridays.com",
-			"start": "2016-11-04T08:00:00",
+			"start": "2016-11-18T08:00:00",
 			"end": "2016-11-18T08:00:00"
 		},
 		{
-			"title": "BE - Tuize kickoff + API & Swagger",
+			"title": "BE - Tuize kickoff | API & Swagger",
 			"url": "http://hackfridays.com",
 			"start": "2016-11-25T08:00:00",
 			"end": "2016-11-25T08:00:00"
 		},
 		{
-			"title": "NL - Tuize kickoff + Traffic",
+			"title": "NL - Arduino Robots | Traffic Maps",
 			"url": "http://hackfridays.com",
 			"start": "2016-12-09T08:00:00",
 			"end": "2016-12-09T08:00:00"
+		},
+		{
+			"title": "BE - Pozyx 101 | Traffic Maps",
+			"url": "http://hackfridays.com",
+			"start": "2016-12-16T08:00:00",
+			"end": "2016-12-16T08:00:00"
+		},
+		{
+			"title": "NL - Traffic Maps",
+			"url": "http://hackfridays.com",
+			"start": "2016-12-23T08:00:00",
+			"end": "2016-12-23T08:00:00"
+		},
+		{
+			"title": "BE - Tuise API",
+			"url": "http://hackfridays.com",
+			"start": "2017-01-06T08:00:00",
+			"end": "2017-01-06T08:00:00"
+		},
+		{
+			"title": "NL - Pozyx 101",
+			"url": "http://hackfridays.com",
+			"start": "2017-01-13T08:00:00",
+			"end": "2017-01-13T08:00:00"
+		},
+		{
+			"title": "BE - Pozyx to API | Tuise API",
+			"url": "http://hackfridays.com",
+			"start": "2017-01-20T08:00:00",
+			"end": "2017-01-20T08:00:00"
+		},
+		{
+			"title": "NL - Pozyx to API | Big data brainstorm",
+			"url": "http://hackfridays.com",
+			"start": "2017-02-03T08:00:00",
+			"end": "2017-02-03T08:00:00"
+		},
+		{
+			"title": "BE - Arduino Robots | Location to API (ib + px)",
+			"url": "http://hackfridays.com",
+			"start": "2017-02-10T08:00:00",
+			"end": "2017-02-10T08:00:00"
+		},
+		{
+			"title": "NL - Tuise proto | Big data analyzing",
+			"url": "http://hackfridays.com",
+			"start": "2017-02-24T08:00:00",
+			"end": "2017-02-24T08:00:00"
+		},
+		{
+			"title": "BE - Mobile React 101 | Tuise API",
+			"url": "http://hackfridays.com",
+			"start": "2017-03-03T08:00:00",
+			"end": "2017-03-03T08:00:00"
+		},
+		{
+			"title": "NL - Microphone to API | Big data to API",
+			"url": "http://hackfridays.com",
+			"start": "2017-03-17T08:00:00",
+			"end": "2017-03-17T08:00:00"
+		},
+		{
+			"title": "BE - Speech 101 | Build 3D Printer",
+			"url": "http://hackfridays.com",
+			"start": "2017-03-24T08:00:00",
+			"end": "2017-03-24T08:00:00"
+		},
+		{
+			"title": "NL - Speech 101 | Big data to API",
+			"url": "http://hackfridays.com",
+			"start": "2017-03-31T08:00:00",
+			"end": "2017-03-31T08:00:00"
+		},
+		{
+			"title": "BE - Mobile React App | Finish 3D Printer",
+			"url": "http://hackfridays.com",
+			"start": "2017-04-21T08:00:00",
+			"end": "2017-04-21T08:00:00"
+		},
+		{
+			"title": "NL - Speech to API | Mobile React 101",
+			"url": "http://hackfridays.com",
+			"start": "2017-04-28T08:00:00",
+			"end": "2017-04-28T08:00:00"
+		},
+		{
+			"title": "BE - Mobile React App | 3D Modeling",
+			"url": "http://hackfridays.com",
+			"start": "2017-05-12T08:00:00",
+			"end": "2017-05-12T08:00:00"
+		},
+		{
+			"title": "NL - Traffic to API | API Security",
+			"url": "http://hackfridays.com",
+			"start": "2017-05-19T08:00:00",
+			"end": "2017-05-19T08:00:00"
+		},
+		{
+			"title": "BE - Mobile React App | 3D Printing",
+			"url": "http://hackfridays.com",
+			"start": "2017-06-02T08:00:00",
+			"end": "2017-06-02T08:00:00"
+		},
+		{
+			"title": "NL - Tuise API | API Security: OAuth2",
+			"url": "http://hackfridays.com",
+			"start": "2017-06-09T08:00:00",
+			"end": "2017-06-09T08:00:00"
 		}
 
 	]
