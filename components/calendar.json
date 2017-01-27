@@ -56,37 +56,37 @@
 			"end": "2017-02-03T08:00:00"
 		},
 		{
-			"title": "BE - Arduino Robots | Location to API (ib + px)",
+			"title": "BE - Arduino Robots | Tuise Translation",
 			"url": "http://hackfridays.com",
-			"start": "2017-02-17T08:00:00",
-			"end": "2017-02-17T08:00:00"
+			"start": "2017-02-10T08:00:00",
+			"end": "2017-02-10T08:00:00"
 		},
 		{
-			"title": "NL - Tuise proto | Big data analyzing",
+			"title": "NL - Database session | Tuise Prototype",
 			"url": "http://hackfridays.com",
 			"start": "2017-02-24T08:00:00",
 			"end": "2017-02-24T08:00:00"
 		},
 		{
-			"title": "BE - Mobile React 101 | Tuise API",
+			"title": "BE - Mobile React 101 | Tuise Prototype",
 			"url": "http://hackfridays.com",
 			"start": "2017-03-03T08:00:00",
 			"end": "2017-03-03T08:00:00"
 		},
 		{
-			"title": "NL - Microphone to API | Big data to API",
+			"title": "NL - Microphone to API | Traffic to API",
 			"url": "http://hackfridays.com",
-			"start": "2017-03-17T08:00:00",
-			"end": "2017-03-17T08:00:00"
+			"start": "2017-03-10T08:00:00",
+			"end": "2017-03-10T08:00:00"
 		},
 		{
-			"title": "BE - Speech 101 | Build 3D Printer",
+			"title": "BE - Speech in-depth | Build 3D printer",
 			"url": "http://hackfridays.com",
 			"start": "2017-03-24T08:00:00",
 			"end": "2017-03-24T08:00:00"
 		},
 		{
-			"title": "NL - Speech 101 | Big data to API",
+			"title": "NL - Speech in-depth | Front-end session",
 			"url": "http://hackfridays.com",
 			"start": "2017-03-31T08:00:00",
 			"end": "2017-03-31T08:00:00"
@@ -98,31 +98,31 @@
 			"end": "2017-04-21T08:00:00"
 		},
 		{
-			"title": "NL - Speech to API | Mobile React 101",
+			"title": "NL - Mobile React 101 | Speech to API",
 			"url": "http://hackfridays.com",
 			"start": "2017-04-28T08:00:00",
 			"end": "2017-04-28T08:00:00"
 		},
 		{
-			"title": "BE - Mobile React App | 3D Modeling",
+			"title": "BE - API to speech | 3D Modeling 101",
 			"url": "http://hackfridays.com",
 			"start": "2017-05-12T08:00:00",
 			"end": "2017-05-12T08:00:00"
 		},
 		{
-			"title": "NL - Traffic to API | API Security",
+			"title": "NL - API security | Mobile React app",
 			"url": "http://hackfridays.com",
 			"start": "2017-05-19T08:00:00",
 			"end": "2017-05-19T08:00:00"
 		},
 		{
-			"title": "BE - Mobile React App | 3D Printing",
+			"title": "BE - 3D Printing",
 			"url": "http://hackfridays.com",
 			"start": "2017-06-02T08:00:00",
 			"end": "2017-06-02T08:00:00"
 		},
 		{
-			"title": "NL - Tuise API | API Security: OAuth2",
+			"title": "NL - OAuth2",
 			"url": "http://hackfridays.com",
 			"start": "2017-06-09T08:00:00",
 			"end": "2017-06-09T08:00:00"
