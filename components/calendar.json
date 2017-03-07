@@ -74,19 +74,25 @@
 			"end": "2017-03-03T08:00:00"
 		},
 		{
-			"title": "NL - Microphone to API | Traffic to API",
+			"title": "BE - Tuise Prototype",
 			"url": "http://hackfridays.com",
 			"start": "2017-03-10T08:00:00",
 			"end": "2017-03-10T08:00:00"
 		},
 		{
-			"title": "BE - Speech in-depth | Build 3D printer",
+			"title": "NL - Microphone to API | Speech in-depth",
+			"url": "http://hackfridays.com",
+			"start": "2017-03-17T08:00:00",
+			"end": "2017-03-17T08:00:00"
+		},
+		{
+			"title": "BE - Build 3D printer",
 			"url": "http://hackfridays.com",
 			"start": "2017-03-24T08:00:00",
 			"end": "2017-03-24T08:00:00"
 		},
 		{
-			"title": "NL - Speech in-depth | Front-end session",
+			"title": "NL - Front-end session",
 			"url": "http://hackfridays.com",
 			"start": "2017-03-31T08:00:00",
 			"end": "2017-03-31T08:00:00"
